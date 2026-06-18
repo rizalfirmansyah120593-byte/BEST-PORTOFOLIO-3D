@@ -115,4 +115,8 @@ Add these topics to improve GitHub search visibility:
 
 ## 🪪 License
 
-This project is open source and available under the **MIT License**. See [LICENSE](LICENSE).
+Proyek ini bersifat *open-source* dan dilindungi oleh lisensi **MIT**. Anda bebas menggunakan, memodifikasi, dan mendistribusikan kode ini untuk kebutuhan pribadi maupun komersial.
+
+<a href="https://github.com/rizalfirmansyah120593-byte/BEST-PORTOFOLIO-3D/blob/main/LICENSE" target="_blank">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License: MIT" />
+</a>
