@@ -12,7 +12,17 @@
   <br />
   <br />
 
-  <a href="https://rizal-firmansyah-portofolio.vercel.app"><strong>🌐 Lihat Live Demo</strong></a>
+  <div align="center">
+  
+  <br />
+  
+  <a href="https://best-portofolio-3-d-qt4f.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_LIHAT_LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+
+  <br />
+  <p><em>Klik tombol di atas untuk melihat pengalaman 3D portofolio saya!</em></p>
+</div>
 </div>
 
 ---
