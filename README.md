@@ -5,14 +5,14 @@
   
   <br />
 
-  <a href="https://best-portofolio-3-d-qt4f.vercel.app">
+  <a href="https://rizal-firmansyah-portofolio.vercel.app">
     <img src="./Screenshot_2026-04-08_22-10-00.png" alt="3D Portfolio Preview" width="600" />
   </a>
   
   <br />
   <br />
 
-  <a href="https://best-portofolio-3-d-qt4f.vercel.app"><strong>🌐 Lihat Live Demo</strong></a>
+  <a href="https://rizal-firmansyah-portofolio.vercel.app"><strong>🌐 Lihat Live Demo</strong></a>
 </div>
 
 ---
