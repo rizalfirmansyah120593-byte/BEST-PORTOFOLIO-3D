@@ -74,21 +74,26 @@ Typical things you’ll want to update:
 
 ---
 
-## ⭐ Support
+## ☕ Dukung Proyek
+Jika template ini membantu perjalanan pengembangan Anda, dukung saya agar terus berkarya!
 
-If you enjoy this project and want to support the development, you can scan the QR code below:
-
-<img src="./public/qrcode.png" alt="Donasi via Saweria" width="200" />
-
-Atau klik link ini: [**Donasi via Saweria**](https://saweria.co/RizalFirmansyah)
-
----
-
-## 🤝 Connect
-
-- Whatsapp: https://wa.me/6281293161515
+<a href="https://saweria.co/RizalFirmansyah" target="_blank">
+ <img src="./public/qrcode.png" alt="Donasi via Saweria" width="200" />
+</a>
 
 ---
+
+## 🤝 Mari Terhubung
+Saya selalu terbuka untuk berdiskusi tentang pengembangan web, AI, atau peluang kolaborasi.
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://wa.me/6281293161515" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://github.com/rizalfirmansyah120593-byte" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ## 🏷️ Recommended GitHub Topics (add in repo settings)
 
