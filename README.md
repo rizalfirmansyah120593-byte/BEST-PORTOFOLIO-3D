@@ -1,43 +1,47 @@
-# 🚀 3D Developer Portfolio Website (React + TypeScript + Three.js)
+# 🚀 3D Developer Portfolio
 
-[![3D portfolio preview (click to watch video)](./Screenshot_2026-04-08_22-10-00.png)](./screen-capture%20(13).webm)
+<div align="center">
+  <p><strong>Sebuah portofolio web interaktif dengan pengalaman 3D imersif bagi para developer.</strong></p>
+  
+  <br />
 
-A modern, high-performance **3D developer portfolio website** built with **React**, **TypeScript**, **Three.js**, **GSAP**, and **WebGL**.
+  <a href="https://best-portofolio-3-d-qt4f.vercel.app">
+    <img src="./Screenshot_2026-04-08_22-10-00.png" alt="3D Portfolio Preview" width="600" />
+  </a>
+  
+  <br />
+  <br />
 
-If you’re a developer looking for a **portfolio template** that feels premium, interactive, and memorable—this repo is for you.
-
-> Live preview: best-portofolio-3-d-qt4f.vercel.app
-
----
-
-## ✨ Highlights
-
-- **3D / WebGL experience** powered by **Three.js**
-- Smooth animations with **GSAP**
-- Modern **React + TypeScript** codebase
-- Fast, responsive UI (desktop + mobile)
-- Designed for developers, engineers, programmers, and creators
+  <a href="https://best-portofolio-3-d-qt4f.vercel.app"><strong>🌐 Lihat Live Demo</strong></a>
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 📖 Tentang Proyek
+Proyek ini adalah template portofolio modern yang dirancang untuk developer yang ingin menonjol. Menggabungkan estetika **3D/WebGL** yang imersif dengan performa tinggi dari **React** dan **TypeScript**, portofolio ini memberikan pengalaman visual yang berkesan bagi setiap pengunjung.
 
-- **React**
-- **TypeScript**
-- **Three.js / WebGL**
-- **GSAP**
-- **HTML / CSS / JavaScript**
+## ⚡ Fitur Utama
+* **Immersive 3D Experience:** Integrasi mendalam dengan **Three.js** dan **WebGL**.
+* **Fluid Animations:** Transisi halus dan dinamis menggunakan **GSAP**.
+* **Modern Stack:** Dibangun dengan **React** dan **TypeScript** untuk skalabilitas kode.
+* **Responsive Design:** Optimal di semua ukuran layar (Desktop & Mobile).
+
+## 🛠️ Tech Stack
+| Kategori | Teknologi |
+| :--- | :--- |
+| **Frontend** | React, TypeScript, Vite |
+| **3D & Graphics** | Three.js, WebGL |
+| **Animations** | GSAP (GreenSock) |
+| **Styling** | CSS3, Tailwind CSS |
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Memulai (Local Development)
 
-### 1) Clone
-
+### 1. Clone Repositori
 ```bash
-git clone https://github.com/rizalfirmansyah120593-byte/BEST-PORTOFOLIO-3D.git
+git clone [https://github.com/rizalfirmansyah120593-byte/BEST-PORTOFOLIO-3D.git](https://github.com/rizalfirmansyah120593-byte/BEST-PORTOFOLIO-3D.git)
 cd BEST-PORTOFOLIO-3D
-```
 
 ### 2) Install
 
