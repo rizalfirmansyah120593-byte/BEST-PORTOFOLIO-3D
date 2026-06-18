@@ -16,7 +16,7 @@
   
   <br />
   
-  <a href="https://best-portofolio-3-d-qt4f.vercel.app" target="_blank">
+  <a href="https://rizal-firmansyah-portofolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀_LIHAT_LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
   </a>
 
